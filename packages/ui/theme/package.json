@@ -1,0 +1,10 @@
+{
+  "name": "@liamia/theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alex.Roussakov",
+  "license": "MIT",
+  "dependencies": {
+    "styled-components": "5.2.1"
+  }
+}
