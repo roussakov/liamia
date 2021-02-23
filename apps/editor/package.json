@@ -1,0 +1,11 @@
+{
+  "name": "@liamia/editor-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alex.Roussakov",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "17.0.1",
+    "@liamia/theme": "1.0.0"
+  }
+}
